@@ -10,6 +10,8 @@ const initialState = {
 
 const base_url =
   "https://expense-tracker-test.herokuapp.com/api/v1/transactions/";
+// const base_url =
+//   "http://localhost:5000/api/v1/transactions/";
 
 export const GlobalContext = createContext(initialState);
 

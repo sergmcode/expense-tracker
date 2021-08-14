@@ -1,6 +1,6 @@
 import React, { useState, useContext } from "react";
 import { GlobalContext } from "../context/GlobalState";
-import { Button } from "@material-ui/core";
+// import { Button } from "@material-ui/core";
 
 function AddTransaction() {
   const [text, setText] = useState("");
@@ -31,11 +31,11 @@ function AddTransaction() {
             placeholder="Enter amount..."
           />
         </div>
-        <Button
-          style={{ marginTop: 20 }}
-          className="btn"
-          variant="contained"
-          color="primary"
+        <button
+          style={{ marginLeft: 62, marginTop: 26 }}
+          className="coolBeans"
+          // variant="contained"
+          // color="primary"
           onClick={(e) => {
             e.preventDefault();
             addTransaction({
@@ -46,7 +46,7 @@ function AddTransaction() {
           }}
         >
           Add transaction
-        </Button>
+        </button>
       </form>
     </>
   );
