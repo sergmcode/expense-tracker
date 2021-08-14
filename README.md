@@ -1,4 +1,5 @@
-## Simple expense tracker using react
+## Expense tracker
+## React + Mongo DB
 ### [https://expense-tracker-1aa64.web.app/](https://expense-tracker-1aa64.web.app/)
 
-![img](https://firebasestorage.googleapis.com/v0/b/expense-tracker-1aa64.appspot.com/o/Screenshot%20from%202021-06-03%2006-36-38.png?alt=media&token=ede2ff86-b296-4ea8-ad23-b83717f9d825)
+![img](https://firebasestorage.googleapis.com/v0/b/expense-tracker-1aa64.appspot.com/o/Screenshot%20from%202021-08-14%2008-26-38.png?alt=media&token=ea0cba5e-282c-4dd4-8138-47e8d6841ab7)
